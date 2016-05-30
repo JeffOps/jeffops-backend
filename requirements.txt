@@ -1,0 +1,2 @@
+PyGithub==1.26.0
+rethinkdb==2.3.0.post3
